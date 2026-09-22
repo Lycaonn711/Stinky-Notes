@@ -1,2 +1,2 @@
 # Stinky-Notes
-Stick Notes but bad and vibe coded
+Sticky Notes but bad and vibe coded
